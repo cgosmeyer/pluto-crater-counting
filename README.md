@@ -3,7 +3,7 @@ Python scripts to aid user in selecting craters on Charon and Pluto, measure the
 
 Written as a project for a 2015 Johns Hopkins University course "Planetary Surface Processes," taught by Kevin Lewis. 
 
-Before running any scripts, change the 'path' variable at the top to the path containing this repo, containing 'data', 'outputs', and 'pluto-crater-counting' directories. 
+Before running any scripts, change the 'path' variable at the top to the path containing this repo, containing 'data', 'outputs', and 'pluto-crater-counting' directories. You will also need create the 'outputs' directory. 
 
 1. Transform full Pluto and Charon images to greyscale and place in 'data'.
 
@@ -12,3 +12,5 @@ Before running any scripts, change the 'path' variable at the top to the path co
 3. In main of `make_crater_plots.py`, select the plots/statistic function you wish to run. Crater density plots will appear in 'outputs'.
 
 Can ignore `mapflat_test.pro` and `mapflat.pro`, failed attempts to project Pluto and Charon as flat maps, with pixels equating to equal physical areas. 
+
+# Message me if you would like my crater count files!  
