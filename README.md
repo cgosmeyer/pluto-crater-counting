@@ -13,4 +13,4 @@ Before running any scripts, change the 'path' variable at the top to the path co
 
 Can ignore `mapflat_test.pro` and `mapflat.pro`, failed attempts to project Pluto and Charon as flat maps, with pixels equating to equal physical areas. 
 
-# Message me if you would like my crater count files!  
+### Message me if you would like my crater count files!  
